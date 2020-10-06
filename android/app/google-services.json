@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "596094529022",
+    "firebase_url": "https://chatapp-f7611.firebaseio.com",
+    "project_id": "chatapp-f7611",
+    "storage_bucket": "chatapp-f7611.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:596094529022:android:1f7cc89008852d8f7e64af",
+        "android_client_info": {
+          "package_name": "com.protatto.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "596094529022-5pmk3p3mmll9r0amhqtlo86mr8m69sd1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbe6ACloWsR9BkrZP2_DlA1HzktE8S2v0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "596094529022-5pmk3p3mmll9r0amhqtlo86mr8m69sd1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
